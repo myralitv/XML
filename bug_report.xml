@@ -1,0 +1,30 @@
+<Bug Report>
+  <Bug ID>
+    <element_1>ID number</element_1>
+    <element_2>Name</element_2>
+    <element_3>Reporter</element_3>
+    <element_4>Submit Date</element_4>
+  </Bug ID>
+  <Bug Overview>
+    <element_5>Summary</element_5>
+    <element_6>URL</element_6>
+    <element_7>Screenshot (Attachments)</element_7>
+  </Bug Overview>
+  <Bug Enviroment>
+    <element_8>Platform</element_8>
+    <element_9>Operating System</element_9>
+    <element_10>Browser</element_10>
+  </Bug Enviroment>
+  <Bug Details>
+    <element_11>Steps to reproduce</element_11>
+    <element_12>Expected result</element_12>
+    <element_13>Actual result</element_13>
+    <element_14>Description</element_14>
+  </Bug Details>
+  <Bug Tracking>
+    <element_15>Severity</element_15>
+    <element_16>Assignet to</element_16>
+    <element_17>Priority</element_17>
+  </Bug Tracking>
+  <Notes>Notes</Notes>
+</Bug Report>
